@@ -3,3 +3,5 @@ encrypt.js
 *.log
 brief.src.html
 encrypt-brief.js
+credentials.src.html
+encrypt-credentials.js
